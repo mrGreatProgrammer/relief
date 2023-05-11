@@ -15,6 +15,7 @@
     background: none;
     backdrop-filter: unset;
     align-items: center;
+    transform: translateX(0);
   }
 
   .nav__list_item {
